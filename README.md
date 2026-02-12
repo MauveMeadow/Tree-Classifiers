@@ -120,10 +120,4 @@ The scripts generate:
 
 Mays Alsheikh - Third Semester Project on Tree Classification with Deep Earth Observation
 
-## License
-
-Open source - feel free to use and modify
-
----
-
 **Project Focus**: Combining satellite imagery with machine learning for automated tree species identification in Earth observation applications.
